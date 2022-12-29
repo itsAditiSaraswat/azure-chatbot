@@ -1,4 +1,4 @@
-# Chatter - Chatbot for GLA University
+# _Chatter_ - Chatbot for GLA University
 *azure-chatbot*
 <br>
 <br>
