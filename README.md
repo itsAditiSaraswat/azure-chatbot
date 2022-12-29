@@ -4,7 +4,7 @@
 <br>
 | &nbsp; | &nbsp; |
 | --- | ----------- |
-| **Objective** | - To create a functioning **chatbot** using **Azure Bot Service** and **Language Service** <br>- To automatically build and deploy web app to Azure from a code repository using **Static Web Apps** Service |
+| **Objective** | - To create a functioning **chatbot** using **Azure Bot Service** and **Language Service** <br>- To build and deploy web app to Azure from a code repository using **Static Web Apps** Service |
 | **Approach** | - Completed all the steps involved in chatbot development i.e., train, build, test, deploy, monitor on Azure platform <br>- Followed the walkthrough for frontend development to create a website using **JavaScript, HTML, CSS** |
 | **Impact** | - Successfully trained the chatbot by user defined intents and test the chatbot on Azure Congnitive Service platform</br>- Developed the website and connected it with remote data using **Azure Bot Service** of Microsoft Azure |
 <br>
